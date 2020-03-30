@@ -102,7 +102,7 @@
           </widget>
          </item>
          <item row="4" column="2">
-          <widget class="QPushButton" name="pushButton">
+          <widget class="QPushButton" name="button_clear">
            <property name="text">
             <string>AC</string>
            </property>
@@ -143,9 +143,9 @@
         </widget>
        </item>
        <item>
-        <widget class="QPushButton" name="pushButton_2">
+        <widget class="QPushButton" name="button_equals">
          <property name="text">
-          <string>Exit</string>
+          <string>=</string>
          </property>
         </widget>
        </item>
